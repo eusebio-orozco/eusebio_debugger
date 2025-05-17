@@ -10,5 +10,5 @@ No se cobra dinero por esto. Todo es con fines educativos.
 
 ![](https://github.com/eusebio-orozco/eusebio_debugger/blob/67542d24411469c7abd5ed4ea405b0fef6d357ab/%EF%BC%91.png)
 
-![]()
+![](https://github.com/eusebio-orozco/eusebio_debugger/blob/948245cd413d8da1ecd65e8e875728154c7d6faf/3.png)
 
