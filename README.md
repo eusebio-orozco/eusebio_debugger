@@ -8,7 +8,7 @@ No se cobra dinero por esto. Todo es con fines educativos.
 
 ![](https://github.com/eusebio-orozco/eusebio_debugger/blob/72dba5469d49db27cb6bf23d6d747de28c929114/2.png)
 
-![]()
+![](https://github.com/eusebio-orozco/eusebio_debugger/blob/67542d24411469c7abd5ed4ea405b0fef6d357ab/%EF%BC%91.png)
 
 ![]()
 
